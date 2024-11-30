@@ -25,12 +25,6 @@ A fully functional **E-Commerce application** designed for seamless online shopp
     
     -   Save products to a wishlist for future purchases.
 
-### Admin Features:
-
--   **Product Management**
-    -   Add, update, and remove products from the catalog.
--   **Order Management**
-    -   View and update order statuses.
 
 ### Other:
 
