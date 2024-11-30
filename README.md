@@ -42,10 +42,6 @@ Follow these steps to set up and run the application locally.
 
 ### 1. Clone the Repository
 
-bash
-
-Copy code
-
 `git clone https://github.com/RohitPithani026/E-Commerce_App.git`
  `cd E-Commerce_App` 
 
